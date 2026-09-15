@@ -32,7 +32,7 @@ The dataset is 466 funds, 152 bn USD committed and 122 bn USD paid in, as of
 ## What the analysis finds
 
 **The composition of value has shifted.** For vintages 2005-2013, 1.57x of
-paid-in capital has come back as cash against a total value of 1.66x — those
+paid-in capital has come back as cash against a total value of 1.66x, those
 funds are essentially closed books. For vintages 2016-2020 the total value is
 almost unchanged at 1.62x, but only 0.64x has been realised. An unchanged TVPI
 masks a move from realised to unrealised value, and unrealised value is the
@@ -45,7 +45,7 @@ index under every assumption.
 
 ## The methodological core
 
-A Kaplan-Schoar PME requires dated cash flows. Those are not public — CalPERS
+A Kaplan-Schoar PME requires dated cash flows. Those are not public, CalPERS
 publishes only totals as of the valuation date. The project distributes the
 observed totals across time under an assumed profile and computes PME under
 three different profiles.
@@ -53,7 +53,7 @@ three different profiles.
 The consequence is faced rather than hidden: **the result is reported as a
 range, not a single number.** If the whole range sits on one side of 1.00, the
 sign is robust. If it crosses, the memo states that the conclusion does not
-hold. That is the point of the project — showing precisely what the data can
+hold. That is the point of the project, showing precisely what the data can
 and cannot support.
 
 ## Validation
